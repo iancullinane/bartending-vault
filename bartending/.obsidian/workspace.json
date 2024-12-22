@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ce3a11066259b55",
+    "type": "split",
+    "children": [
+      {
+        "id": "942581dc4cf1500f",
+        "type": "tabs",
+        "dimension": 70.63318777292577,
+        "children": [
+          {
+            "id": "fc8f330adfc3be7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c4b21f9f11dd61b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7942658843e28967",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a167c49dd166398a",
+        "type": "tabs",
+        "dimension": 29.366812227074234,
+        "children": [
+          {
+            "id": "c60a4f921af02b9b",
+            "type": "leaf",
+            "state": {
+              "type": "sync",
+              "state": {},
+              "icon": "refresh-ccw",
+              "title": "Sync changes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4bc872afd4264abf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f363cbf743eb89f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27618c8845c2dbdb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Drinks/At Sweet Basil/Disorderly Conduct.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Disorderly Conduct"
+            }
+          },
+          {
+            "id": "d6ba9bf21cbea966",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Drinks/At Sweet Basil/Sex and the Watch City.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sex and the Watch City"
+            }
+          },
+          {
+            "id": "5fd73089f8553626",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "801dfc362f7abe08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Drinks/At Sweet Basil/Sex and the Watch City.md",
+    "Atlas/Maps/Drink Map.md",
+    "Atlas/utils/templates/TMPL New Sweet Basil Drink.md",
+    "Atlas/Maps",
+    "Atlas/utils/templates/TMPL Base Props.md",
+    "Drinks/At Sweet Basil/Uncut Jams.md",
+    "Home.md",
+    "Drinks/At Sweet Basil/Penichillin'.md",
+    "Atlas/utils/attachments/Pasted image 20241222145747.png",
+    "Atlas/utils/attachments/PXL_20241128_161859254.jpg",
+    "Atlas/utils/attachments",
+    "Atlas/utils",
+    "Atlas/+/}Liquid Intelligence.md",
+    "Atlas/utils/templates",
+    "Atlas/Untitled.md",
+    "Atlas/+",
+    "Atlas/sweet basil.md",
+    "Atlas/+/Lillet Rose.md",
+    "Atlas/+/Brown Eyed Girl.md",
+    "Atlas/+/Pimm's.md",
+    "Atlas/+/2024-12-15.md",
+    "Atlas/+/Aperol Spritz.md",
+    "Atlas/+/Aviation.md",
+    "Atlas/+/Rosemary's Baby.md",
+    "Atlas/+/Let's Be Clear.md",
+    "Atlas/+/red Sangria.md",
+    "Atlas/+/Gin & Tonic.md",
+    "Atlas/+/watermelon shrub.md",
+    "Atlas/utils/attachments/PXL_20241215_215645164.jpg",
+    "Atlas/+/The Fifth Floor.md",
+    "Atlas/+/Honey Don't Mind if I Do.md",
+    "Atlas/+/Lemon Drop.md",
+    "Atlas/+/Adios Motherfucker.md",
+    "Atlas/utils/attachments/Screenshot_20241208-142542.png",
+    "Atlas/+/Lime cordial.md",
+    "Atlas/utils/attachments/PXL_20241128_161941350.jpg",
+    "Atlas",
+    "Mutators/Garnishes",
+    "templates",
+    "Things",
+    "Mutators"
+  ]
+}

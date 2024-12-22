@@ -1,0 +1,7 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Atlas/+",
+  "promptDelete": false,
+  "attachmentFolderPath": "Atlas/utils/attachments"
+}
