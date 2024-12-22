@@ -1,3 +1,9 @@
+---
+up: Drink Map
+related: 
+created: 2024-12-22
+tags:
+---
 ### Ingredients
 [[Pisco]]
 [[yellow bell pepper]]
@@ -15,4 +21,4 @@ A drink served at [[Sweet Basil Waltham]]. It is likely a [[Sour]] with the [[Pi
 
 ---
 #drink
-#sweet-basil
+#sweet-basil/carbonated 

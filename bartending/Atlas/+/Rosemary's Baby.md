@@ -1,4 +1,9 @@
-#drink #sweet-basil 
+---
+up: Drink Map
+related: 
+created: 2024-12-22
+tags:
+---
 
 A [[Daisy]] at [[Sweet Basil Waltham]]
 
@@ -10,3 +15,6 @@ A [[Daisy]] at [[Sweet Basil Waltham]]
 
 [[Shake]] and serve in a [[coupe]]
 
+---
+#drink 
+#sweet-basil/shaken 

@@ -1,3 +1,9 @@
+---
+up: Drink Map
+related: 
+created: 2024-12-22
+tags:
+---
 [[Pimm's]]
 [[Lillet Rose]]
 [[Strawberry]]
@@ -11,4 +17,4 @@ Wine glass
 Top [[Cava]]
 
 #drink 
-#sweet-basil 
+#sweet-basil/carbonated  

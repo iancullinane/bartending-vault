@@ -1,3 +1,10 @@
+---
+up: Drink Map
+related: 
+created: 2024-12-22
+tags:
+---
+
 ## Description
 
 A drink at [[Sweet Basil Waltham]].
@@ -14,4 +21,4 @@ Served in a [[copper mug]] with [[lime wheel]].
 
 ---
 #drink
-#sweet-basil
+#sweet-basil/carbonated

@@ -1,3 +1,10 @@
+---
+up: Drink Map
+related: 
+created: 2024-12-22
+tags:
+---
+
 ## Description
 A [[non-alcoholic]] drink at [[Sweet Basil Waltham]].
 ### Ingredients
@@ -9,4 +16,4 @@ Served in a [[coupe]] glass with [[lemon peel]]
 
 ---
 #drink
-#sweet-basil
+#sweet-basil/classic 

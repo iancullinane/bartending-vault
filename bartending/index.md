@@ -4,40 +4,27 @@ related:
 created: 2024-12-22
 tags: 
 banner: "[[Pasted image 20241222145747.png]]"
+title: Bartender Handbook
 ---
 
 Creating cocktails relies on the [[mother recipe]] theory. Keep this in mind always when mixing and serving.
-
-
 ## Drinks at [[Sweet Basil Waltham]]
 #### Classic Drinks
 ```dataview
 list from #drink and #sweet-basil/classic 
 ```
-
 #### Shaken
 ```dataview
 list from #drink and #sweet-basil/shaken
 ```
-
 #### Carbonated
 ```dataview
 list from #drink and #sweet-basil/carbonated 
 ```
-
 #### Stirred
 ```dataview
 list from #drink and #sweet-basil/stirred
 ```
-
-```dataview
-list from #drink and #sweet-basil 
-and !#sweet-basil/classic
-and !#sweet-basil/shaken
-and !#sweet-basil/stirred
-and !#sweet-basil/carbonated
-```
-
 ## Thanksgiving drinks
 ```dataview
 list from #thanksgiving-drinks 
