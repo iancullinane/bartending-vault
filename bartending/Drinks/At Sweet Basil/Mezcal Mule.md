@@ -8,6 +8,12 @@ tags:
 ## Description
 
 A drink at [[Sweet Basil Waltham]].
+
+## Prep
+3 batch
+1 [[lime juice]]
+Top [[ginger beer]]
+
 ### Ingredients
 
 [[mezcal]],

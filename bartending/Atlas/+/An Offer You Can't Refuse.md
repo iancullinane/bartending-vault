@@ -6,19 +6,19 @@ tags:
 ---
 ## Description
 A [[mother recipe]] sold at [[Sweet Basil Waltham]]. 
-## Pour Ingredients
-2.5 batch
-.5 grenadine 
-.75 lime
 
-Poured in a [[coupe]] 
-[[orange twist]] garnish
+## Pour Ingredients
+3 batch
+
+
+Stir and serve in [[rocks glass]] with [[orange twist]].
 ## Elements
-[[Vodka]]
-[[Pomegrante]]
-[[orange liqueur]]
-[[lime]]
+[[Portobello Reposado]]
+[[Coffee]]
+[[Carrots]]
+
+
 
 ---
 #drink
-#sweet-basil 
+#sweet-basil/stirred 

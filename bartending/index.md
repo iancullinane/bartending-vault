@@ -9,6 +9,9 @@ title: Bartender Handbook
 
 Creating cocktails relies on the [[mother recipe]] theory. Keep this in mind always when mixing and serving.
 ## Drinks at [[Sweet Basil Waltham]]
+
+The drinks served at Sweet Basil Waltham.
+
 #### Classic Drinks
 ```dataview
 list from #drink and #sweet-basil/classic 
@@ -49,3 +52,7 @@ At start
 ![[Screenshot_20241208-142542.png]]
 
 ![[PXL_20241215_215645164.jpg]]
+
+
+
+[[https://bloximages.newyork1.vip.townnews.com/dailynebraskan.com/content/tncms/assets/v3/editorial/0/da/0dad4366-4bf8-11ec-85aa-ebb17a277faf/619c3c366811f.image.jpg?resize=1200%2C675]]

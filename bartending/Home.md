@@ -10,6 +10,9 @@ Creating cocktails relies on the [[mother recipe]] theory. Keep this in mind alw
 
 
 ## Drinks at [[Sweet Basil Waltham]]
+
+The drinks served at Sweet Basil Waltham.
+
 #### Classic Drinks
 ```dataview
 list from #drink and #sweet-basil/classic 

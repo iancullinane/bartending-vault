@@ -1,6 +1,6 @@
 ---
 up: 
 related: []
-created: <% tp.date.now("YYYY-MM-DD") %>
+created: 2024-12-22
 tags: []
 ---

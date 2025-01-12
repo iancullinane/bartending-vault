@@ -6,10 +6,10 @@ tags:
 ---
 
 
-A specialty cocktail served at [[Sweet Basil Waltham]].
+A [[Daisy]] served at [[Sweet Basil Waltham]].
 
 [[gin]]
-[[lavendar bitters]]
+[[lavender bitters]]
 [[Lime cordial]]
 
 3 batch
