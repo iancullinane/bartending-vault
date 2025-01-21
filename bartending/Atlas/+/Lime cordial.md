@@ -1,3 +1,6 @@
+---
+publish: true
+---
 See also [[Roses's Lime Cordial]]. For now, this link has our recipe.
 
 ## Recipe

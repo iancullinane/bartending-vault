@@ -1,3 +1,6 @@
+---
+publish: true
+---
 #drink #sweet-basil 
 
 [[gin]]

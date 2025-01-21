@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Take equal parts water and sugar (ie 1:1). Standard is [[white granulated sugar]], but you are not restricted to it. 
 
 First heat the water, but do not boil, to make dissolution slightly faster, then simply mix the two.

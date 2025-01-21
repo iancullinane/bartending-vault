@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "udus122/dataview-publisher",
     "saberzero1/quartz-syncer"
   ],
   "pluginSubListFrozenVersion": [],

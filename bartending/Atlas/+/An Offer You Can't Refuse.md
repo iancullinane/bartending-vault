@@ -1,11 +1,12 @@
 ---
 up: Drink Map
-related: 
+related: null
 created: 2024-12-22
-tags:
+tags: null
+publish: true
 ---
 ## Description
-A [[mother recipe]] sold at [[Sweet Basil Waltham]]. 
+A drink sold at [[Sweet Basil Waltham]]. 
 
 ## Pour Ingredients
 3 batch

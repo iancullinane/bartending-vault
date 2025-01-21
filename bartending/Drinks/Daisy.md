@@ -1,3 +1,6 @@
+---
+publish: true
+---
 A [[mother recipe]] that is the basis for drinks like [[Margarita]], [[Cosmopolitan ]], and [[Sidecar]].
 
 It is made from [[spirit]], [[citrus]], and [[sugar]].

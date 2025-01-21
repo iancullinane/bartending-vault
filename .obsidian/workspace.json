@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "a48d96c33a4d969a",
+    "type": "split",
+    "children": [
+      {
+        "id": "42082145782e74f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c000a443a888f1f0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61217c104e5dd3a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc467cd09af9cd7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6247abec87d55164",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3ae729cca8c620d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6c75051b1982368c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9692770bb957d965",
+    "type": "split",
+    "children": [
+      {
+        "id": "c42504e118547355",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25894e7dca1b29be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b132ae319ede3b66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0a40ecedb6a5ece6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cd971e43f5b7b534",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6247abec87d55164",
+  "lastOpenFiles": [
+    "bartending/Atlas/utils/templates/TMPL New Sweet Basil Drink.md",
+    "bartending/Atlas/utils/templates/TMPL Base Props.md",
+    "bartending/Atlas/utils/templates/TMPL Base Props Drink Map.md",
+    "bartending/Atlas/utils/attachments/Screenshot_20241208-142542.png",
+    "bartending/Atlas/utils/attachments/Pasted image 20241222145747.png",
+    "bartending/Atlas/utils/attachments/PXL_20241215_215645164.jpg",
+    "bartending/Atlas/utils/attachments/PXL_20241128_161941350.jpg",
+    "bartending/Atlas/utils/attachments/PXL_20241128_161859254.jpg",
+    "bartending/Atlas/utils/templates",
+    "bartending/Atlas/utils/attachments",
+    "bartending/Atlas/utils",
+    "bartending/Atlas/+/}Liquid Intelligence.md",
+    "bartending/Atlas/+/watermelon shrub.md",
+    "bartending/Atlas/+/red Sangria.md",
+    "bartending/Atlas/+/mezcal.md",
+    "bartending/Atlas/+/martini permutations.md",
+    "bartending/Atlas/+/lavender bitters.md",
+    "bartending/Atlas/+/green Chartreuse.md",
+    "bartending/Atlas/+/fortified wine.md",
+    "bartending/Atlas/+/coupe.md",
+    "bartending/Atlas/+/bitters.md",
+    "bartending/Atlas/+/amarula.md",
+    "bartending/Atlas/+/Wig Shop.md",
+    "bartending/Atlas/+/White Sangria.md",
+    "bartending/Atlas/+/Whisky Sour Twist.md",
+    "bartending/Atlas/+/Wednesday Adams.md",
+    "bartending/Atlas/+/Vodka Sour with a Bitters Kick.md",
+    "bartending/Atlas/+/Untitled.md",
+    "bartending/Atlas/+/The Fifth Floor.md",
+    "bartending/Atlas/+/Thanksgiving.md",
+    "bartending/Atlas/+/Tequila.md",
+    "bartending/Atlas/+/Sweet Basil Waltham.md",
+    "bartending/Atlas/+/Sweet Basil Moody night 1.md",
+    "bartending/Atlas/+/Rosemary's Baby.md",
+    "bartending/Atlas/+",
+    "bartending/Atlas/Maps",
+    "bartending/Drinks/At Sweet Basil",
+    "bartending/Mutators/Garnishes",
+    "bartending/Atlas",
+    "bartending/Drinks",
+    "bartending/Liquors"
+  ]
+}

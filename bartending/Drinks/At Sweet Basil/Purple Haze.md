@@ -1,8 +1,9 @@
 ---
 up: Drink Map
-related: 
+related: null
 created: 2024-12-22
-tags:
+tags: null
+publish: true
 ---
 
 
@@ -16,6 +17,13 @@ A [[Daisy]] served at [[Sweet Basil Waltham]].
 1 [[Lime]]
 
 Serve in a [[coupe]] with [[lime wheel]]
+
+## Batch Recipe
+
+25oz [[gin]]
+1 [[dash]] [[lavender bitters]]
+[[Pea Powder]]
+[[Lavender Flower]]
 
 
 ---

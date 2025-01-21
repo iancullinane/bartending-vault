@@ -5,6 +5,7 @@ created: 2024-12-22
 tags: 
 banner: "[[Pasted image 20241222145747.png]]"
 title: Bartender Handbook
+publish: true
 ---
 
 Creating cocktails relies on the [[mother recipe]] theory. Keep this in mind always when mixing and serving.

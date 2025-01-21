@@ -1,3 +1,6 @@
+---
+publish: true
+---
 A classic [[Martini]] with lemon and citrus
 
 1 lemon juice

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 - 3/4 ounce [[gin]]
 - 3/4 ounce [[green Chartreuse]]
 - 3/4 ounce [[maraschino liqueur]]

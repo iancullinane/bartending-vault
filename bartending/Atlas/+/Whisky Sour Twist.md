@@ -1,3 +1,6 @@
+---
+publish: true
+---
 A [[Sour]].
 
 2oz [[bourbon]]

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Martini]]
 
 Bone dry: No vermouth

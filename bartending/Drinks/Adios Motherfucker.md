@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
     1/2 ounce vodka
     1/2 ounce rum

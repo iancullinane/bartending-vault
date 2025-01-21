@@ -68,5 +68,14 @@
       ],
       "key": "M"
     }
+  ],
+  "quartz-syncer:mark-toggle-publish-status": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
   ]
 }

@@ -1,8 +1,9 @@
 ---
 up: Drink Map
-related: 
+related: null
 created: 2024-12-22
-tags:
+tags: null
+publish: true
 ---
 1.5 [[gin]]
 1.5 [[Compari]]

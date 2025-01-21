@@ -1,8 +1,9 @@
 ---
-up: "[[Drink Map]]"
-related: 
+up: [[Drink Map]]
+related: null
 created: 2024-12-22
-tags:
+tags: null
+publish: true
 ---
 Mezcal is a distilled alcoholic beverage made from the agave plant that originated in Mexico: 
 

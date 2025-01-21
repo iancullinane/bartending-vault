@@ -1,23 +1,16 @@
----
-up: Drink Map
-related: 
-created: 2024-12-22
-tags:
----
 ## Description
-A [[mother recipe]] sold at [[Sweet Basil Waltham]]. 
-## Pour Ingredients
+A drink sold at [[Sweet Basil Waltham]]. 
+## Serving Instruction
 2.5 batch
-.5 grenadine 
-.75 lime
+.5 something
+.75 else
 
 Poured in a [[coupe]] 
 [[orange twist]] garnish
-## Elements
-[[Vodka]]
-[[Pomegrante]]
-[[orange liqueur]]
-[[lime]]
+
+## Spec
+
+## Batch
 
 ---
 #drink

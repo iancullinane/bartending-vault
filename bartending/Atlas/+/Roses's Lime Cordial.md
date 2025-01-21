@@ -1,3 +1,6 @@
+---
+publish: true
+---
 A lime cordial created in the 19th Century to preserve lime juice for long sea voyages. 
 
 The modern version is pretty dreadful. However [[Jeffrey Morganthaler]] had made a recipe. 

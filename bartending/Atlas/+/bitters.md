@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Bitters is a traditional alcoholic preparation made from [[herbal]] or [[botanical]] ingredients.
 
 Bitters serve to balance a drink and create more complex flavors.

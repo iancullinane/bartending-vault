@@ -1,4 +1,3 @@
 ---
-aliases:
-  - vodka
+publish: true
 ---

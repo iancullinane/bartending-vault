@@ -1,7 +1,8 @@
 ---
-up: "[[Drink Map]]"
-related: 
+up: [[Drink Map]]
+related: null
 created: 2024-12-22
-tags:
+tags: null
+publish: true
 ---
 A peppermint flavored digestif.

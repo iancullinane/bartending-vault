@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 2oz [[Vodka]]
 1oz [[Lime cordial]]
 2 dashes [[bitters]]

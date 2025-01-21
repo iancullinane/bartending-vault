@@ -1,3 +1,6 @@
+---
+publish: true
+---
 A derivation of an [[Old Fashioned]]. 
 
 2 oz rye [[whiskey]] or [[bourbon]]

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 A [[Sour]] served at [[Sweet Basil Waltham]].
 
 [[bourbon]]

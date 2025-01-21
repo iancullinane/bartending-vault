@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Classic [[Highball]]
 
 2 ounces [[gin]]
